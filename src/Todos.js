@@ -1,5 +1,4 @@
 import React from "react";
-
 import { Empty, Button, List } from "antd";
 import { DeleteOutlined } from "@ant-design/icons";
 export const Todos = ({ todos, deleteTodo }) => {
